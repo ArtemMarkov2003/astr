@@ -18,7 +18,7 @@ grafic_area_calcium_activity(time_list, calcium_activities_1_m)
 ```
 ## Документация
 
-[Ссылка на документацию] 
+https://github.com/ArtemMarkov2003/astrocyte
 
 
 ## Контакты
